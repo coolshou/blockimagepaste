@@ -12,6 +12,7 @@ Block drag &amp; drop image OR direct image paste into CKEditor
  
      cd <redmine>
      cd plugins/redmine_ckeditor/assets/ckeditor-contrib/plugins
+     git clone https://github.com/coolshou/blockimagepaste.git
     
 Now add the plugin in your config.js
 
