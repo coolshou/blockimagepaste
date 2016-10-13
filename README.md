@@ -25,5 +25,5 @@ with following setting
 
     CKEDITOR.editorConfig = function( config )
     {
-     config.extraPlugins = “blockimagepaste”;
+     config.extraPlugins = "blockimagepaste";
     };
